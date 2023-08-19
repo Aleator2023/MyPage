@@ -1,6 +1,6 @@
 ## Приветствую на моем сайте!
 
-![Мое фото](https://github.com/Aleator2023/MyPage/blob/main/MeInDesert.jpg)
+![Мое фото]![MeInDesert](https://github.com/Aleator2023/MyPage/assets/136687310/a8061c84-d545-4006-a074-941a9db87971)
 
 ### **Обо мне**
 
